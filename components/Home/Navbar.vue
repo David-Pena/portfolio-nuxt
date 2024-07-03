@@ -1,9 +1,9 @@
 <template>
   <nav class="navbar navbar-expand-lg static">
     <div class="container">
-      <a class="logo icon-img-100" href="#">
+      <!-- <a class="logo icon-img-100" href="#">
         <img src="/assets/imgs/logo-light.png" alt="logo" />
-      </a>
+      </a> -->
       <button
         class="navbar-toggler"
         type="button"
@@ -42,13 +42,13 @@
         </ul>
       </div>
 
-      <div class="md-hide">
+      <!-- <div class="md-hide">
         <div class="butn-presv">
           <a href="#0" class="butn butn-sm butn-bg bg-white radius-5 skew">
             <span class="text-dark">Hire Me!</span>
           </a>
         </div>
-      </div>
+      </div> -->
     </div>
   </nav>
 </template>
