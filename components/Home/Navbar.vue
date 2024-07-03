@@ -34,11 +34,6 @@
               ><span class="rolling-text">Blog</span></a
             >
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#0" data-scroll-nav="6" @click="scrollToSection"
-              ><span class="rolling-text">Contact</span></a
-            >
-          </li>
         </ul>
       </div>
 
