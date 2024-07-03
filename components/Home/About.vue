@@ -12,23 +12,14 @@
             <h2>{{ data.years_of_experance }}</h2>
             <p>
               Years <br />
-              of Experance
-            </p>
-          </div>
-        </div>
-        <div class="mr-40">
-          <div class="d-flex align-items-center">
-            <h2>{{ data.clients }}</h2>
-            <p>
-              Clients <br />
-              Worldwide
+              of Experience
             </p>
           </div>
         </div>
         <div>
           <div class="butn-presv">
             <a href="#0" class="butn butn-md butn-bord radius-5 skew">
-              <span>Dwonload C.V</span>
+              <span>Download C.V</span>
             </a>
           </div>
         </div>
