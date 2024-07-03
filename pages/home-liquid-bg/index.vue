@@ -1,6 +1,6 @@
 <template>
   <CommonLoader />
-  <CommonSettingsSwitch />
+  <!-- <CommonSettingsSwitch /> -->
   <HomeLiquid />
   <HomeNavbar />
   <main>

@@ -5,11 +5,11 @@
   <HomeNavbar />
   <main>
     <HomeMainBox />
-    <HomeServices />
+    <!-- <HomeServices /> -->
     <HomePortfolio />
-    <HomeTestimonials />
+    <!-- <HomeTestimonials /> -->
     <HomeBlog />
-    <HomeContact />
+    <!-- <HomeContact /> -->
   </main>
   <CommonFooter />
 </template>
@@ -19,7 +19,7 @@
 useHead({
   titleTemplate: `%s - Home Main`,
   bodyAttrs: {
-    class: "main-home"
-  }
-})
+    class: "main-home",
+  },
+});
 </script>

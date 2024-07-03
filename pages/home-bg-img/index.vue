@@ -5,11 +5,11 @@
   <HomeNavbar />
   <main>
     <HomeMainBox />
-    <HomeServices />
+    <!-- <HomeServices /> -->
     <HomePortfolio />
-    <HomeTestimonials />
+    <!-- <HomeTestimonials /> -->
     <HomeBlog />
-    <HomeContact />
+    <!-- <HomeContact /> -->
   </main>
   <CommonFooter />
 </template>
@@ -17,6 +17,6 @@
 <script setup>
 //= Page Head
 useHead({
-  titleTemplate: `%s - Home Background Image`
-})
+  titleTemplate: `%s - Home Background Image`,
+});
 </script>

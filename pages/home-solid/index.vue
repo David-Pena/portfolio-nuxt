@@ -4,11 +4,11 @@
   <HomeNavbar />
   <main>
     <HomeMainBox />
-    <HomeServices />
+    <!-- <HomeServices /> -->
     <HomePortfolio />
-    <HomeTestimonials />
+    <!-- <HomeTestimonials /> -->
     <HomeBlog />
-    <HomeContact />
+    <!-- <HomeContact /> -->
   </main>
   <CommonFooter />
 </template>
@@ -18,7 +18,7 @@
 useHead({
   titleTemplate: `%s - Home Solid`,
   bodyAttrs: {
-    class: "solid"
-  }
-})
+    class: "solid",
+  },
+});
 </script>
