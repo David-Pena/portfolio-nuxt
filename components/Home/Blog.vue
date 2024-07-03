@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12">
           <div class="sec-head bord-thin-bottom pb-20 mb-80">
-            <h4 class="sub-title fz-28">Publications</h4>
+            <h4 class="sub-title fz-28">Blog</h4>
           </div>
         </div>
       </div>
