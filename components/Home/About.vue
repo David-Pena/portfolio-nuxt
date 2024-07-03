@@ -2,8 +2,7 @@
   <div class="about section-padding" data-scroll-index="0">
     <div class="cont">
       <h1>
-        Hello, I’m <span class="main-color">Ethan Hawke</span>, Front-end Developer
-        and <span class="bord">UX / UI Designer <i></i></span> Based in California.
+        Hello, I’m <span class="main-color">David Peña</span>, Front-end Developer Based in LA.
       </h1>
     </div>
     <div class="stauts mt-80">
@@ -11,13 +10,19 @@
         <div class="mr-40">
           <div class="d-flex align-items-center">
             <h2>{{ data.years_of_experance }}</h2>
-            <p>Years <br /> of Experance</p>
+            <p>
+              Years <br />
+              of Experance
+            </p>
           </div>
         </div>
         <div class="mr-40">
           <div class="d-flex align-items-center">
             <h2>{{ data.clients }}</h2>
-            <p>Clients <br /> Worldwide</p>
+            <p>
+              Clients <br />
+              Worldwide
+            </p>
           </div>
         </div>
         <div>
@@ -35,8 +40,8 @@
     </div>
   </div>
 </template>
-  
+
 <script setup>
 //= Static Data
-import data from '@/data/info.json';
+import data from "@/data/info.json";
 </script>
