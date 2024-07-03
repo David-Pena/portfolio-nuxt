@@ -9,7 +9,7 @@
     <HomePortfolio />
     <!-- <HomeTestimonials /> -->
     <HomeBlog />
-    <HomeContact />
+    <!-- <HomeContact /> -->
   </main>
   <CommonFooter />
 </template>

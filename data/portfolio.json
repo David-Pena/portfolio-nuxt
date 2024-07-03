@@ -2,31 +2,31 @@
   {
     "id": 1,
     "image": "/assets/imgs/works/1.jpg",
-    "title": "GeekFolio Portfolio",
-    "tag": "Branding"
+    "title": "Landing - Code Craft Guidelines",
+    "tag": "OSS"
+  },
+  {
+    "id": 1,
+    "image": "/assets/imgs/works/1.jpg",
+    "title": "App - Code Craft Guidelines",
+    "tag": "OSS"
   },
   {
     "id": 2,
     "image": "/assets/imgs/works/2.jpg",
-    "title": "Luxury Modern Website",
-    "tag": "Branding"
+    "title": "Onboarding Cooweb",
+    "tag": "Web"
   },
   {
     "id": 3,
     "image": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "tag": "Branding"
+    "title": "Note Taking App",
+    "tag": "Web"
   },
   {
     "id": 4,
     "image": "/assets/imgs/works/4.jpg",
-    "title": "From our gallery",
-    "tag": "Branding"
-  },
-  {
-    "id": 5,
-    "image": "/assets/imgs/works/5.jpg",
-    "title": "Brand Identity",
-    "tag": "Branding"
+    "title": "Electron Calculator",
+    "tag": "Desktop"
   }
 ]

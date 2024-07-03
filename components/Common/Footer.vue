@@ -5,8 +5,10 @@
         <div class="col-12">
           <div class="text-center">
             <p class="fz-13">
-              © 2023 Hawke is Proudly Powered by <span class="underline main-color"><a :href="data.author_link"
-                  target="_blank"> {{ data.theme_author }}</a></span>
+              Made by
+              <span class="main-color"
+                ><a :href="data.author_link" target="_blank"> {{ data.theme_author }}</a></span
+              >
             </p>
           </div>
         </div>
@@ -14,8 +16,8 @@
     </div>
   </footer>
 </template>
-  
+
 <script setup>
 //= Static Data
-import data from '@/data/app.json';
+import data from "@/data/app.json";
 </script>
