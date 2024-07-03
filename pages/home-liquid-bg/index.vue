@@ -5,9 +5,9 @@
   <HomeNavbar />
   <main>
     <HomeMainBox />
-    <HomeServices />
+    <!-- <HomeServices /> -->
     <HomePortfolio />
-    <HomeTestimonials />
+    <!-- <HomeTestimonials /> -->
     <HomeBlog />
     <HomeContact />
   </main>
@@ -19,7 +19,7 @@
 useHead({
   titleTemplate: `%s - Home Liquid Background`,
   bodyAttrs: {
-    class: "liquid"
-  }
-})
+    class: "liquid",
+  },
+});
 </script>

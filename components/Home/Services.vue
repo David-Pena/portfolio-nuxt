@@ -15,7 +15,7 @@
             <h6>{{ item.title }}</h6>
             <p>{{ item.details }}</p>
             <div class="tags">
-              <a href="#0" v-for="(tag) in item.tags" :key="tag">{{ tag }}</a>
+              <a href="#0" v-for="tag in item.tags" :key="tag">{{ tag }}</a>
             </div>
           </div>
         </div>
@@ -23,8 +23,8 @@
     </div>
   </section>
 </template>
-  
+
 <script setup>
 //= Static Data
-import data from '@/data/services.json';
+import data from "@/data/services.json";
 </script>
