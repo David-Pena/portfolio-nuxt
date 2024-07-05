@@ -40,26 +40,62 @@
   "skills": [
     {
       "id": 1,
-      "title": "UI / UX Design",
-      "logo": "/assets/imgs/resume/s1.png",
+      "title": "Vue",
+      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/vuejs.svg",
       "percent": "95%"
     },
     {
       "id": 2,
-      "title": "Development",
-      "logo": "/assets/imgs/resume/s2.png",
+      "title": "React",
+      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg",
+      "percent": "95%"
+    },
+    {
+      "id": 2,
+      "title": "React Native w Expo",
+      "logo": "/assets/imgs/resume/expo.png",
+      "percent": "95%"
+    },
+    {
+      "id": 2,
+      "title": "Typescript",
+      "logo": "https://abrudz.github.io/logos/TypeScript.svg",
+      "percent": "95%"
+    },
+    {
+      "id": 3,
+      "title": "Html/Css",
+      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg",
       "percent": "90%"
     },
     {
       "id": 3,
-      "title": "Graphic Design",
-      "logo": "/assets/imgs/resume/s3.png",
-      "percent": "85%"
+      "title": "Nodejs",
+      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg",
+      "percent": "90%"
     },
     {
       "id": 4,
-      "title": "WordPress",
-      "logo": "/assets/imgs/resume/s4.png",
+      "title": "Java",
+      "logo": "https://abrudz.github.io/logos/Java.svg",
+      "percent": "85%"
+    },
+    {
+      "id": 5,
+      "title": "Python",
+      "logo": "https://abrudz.github.io/logos/Python.svg",
+      "percent": "78%"
+    },
+    {
+      "id": 5,
+      "title": "Google Cloud Platform",
+      "logo": "/assets/imgs/resume/gcp.png",
+      "percent": "78%"
+    },
+    {
+      "id": 5,
+      "title": "Firebase Cloud Platform",
+      "logo": "/assets/imgs/resume/firebase.png",
       "percent": "78%"
     }
   ]
