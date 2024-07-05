@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="text mt-80">
-      <h6 class="sub-title mb-15">About Us.</h6>
+      <h6 class="sub-title mb-15">About Me.</h6>
       <p class="fz-20">{{ data.brief }}</p>
     </div>
   </div>

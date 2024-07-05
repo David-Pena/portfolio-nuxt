@@ -1,31 +1,31 @@
 [
   {
     "id": 1,
-    "image": "/assets/imgs/works/1.jpg",
+    "image": "https://placehold.co/600x400",
     "title": "Landing - Code Craft Guidelines",
     "tag": "OSS"
   },
   {
     "id": 1,
-    "image": "/assets/imgs/works/1.jpg",
+    "image": "https://placehold.co/600x400",
     "title": "App - Code Craft Guidelines",
     "tag": "OSS"
   },
   {
     "id": 2,
-    "image": "/assets/imgs/works/2.jpg",
+    "image": "https://placehold.co/200x200",
     "title": "Onboarding Cooweb",
     "tag": "Web"
   },
   {
     "id": 3,
-    "image": "/assets/imgs/works/3.jpg",
+    "image": "https://placehold.co/200x200",
     "title": "Note Taking App",
     "tag": "Web"
   },
   {
     "id": 4,
-    "image": "/assets/imgs/works/4.jpg",
+    "image": "https://placehold.co/200x200",
     "title": "Electron Calculator",
     "tag": "Desktop"
   }

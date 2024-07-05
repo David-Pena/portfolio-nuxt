@@ -9,26 +9,32 @@
     {
       "id": 1,
       "duration": "2020 - Present",
-      "company": "COLLEGE - NCU",
-      "logo": "/assets/imgs/resume/1.svg"
+      "company": "Cooweb LLC",
+      "logo": "FullStack Dev"
     },
     {
       "id": 2,
       "duration": "2017 - 2019",
-      "company": "PHD - MIT",
-      "logo": "/assets/imgs/resume/2.svg"
+      "company": "Cooweb LLC",
+      "logo": "Frontend Dev"
     },
     {
       "id": 3,
       "duration": "2015 - 2017",
-      "company": "AI TOOLS",
-      "logo": "/assets/imgs/resume/3.svg"
+      "company": "Buho",
+      "logo": "React Native Dev"
     },
     {
       "id": 4,
       "duration": "2014 - 2015",
-      "company": "ELP DREAAM",
-      "logo": "/assets/imgs/resume/4.svg"
+      "company": "Kontroll",
+      "logo": "Frontend Dev"
+    },
+    {
+      "id": 4,
+      "duration": "2014 - 2015",
+      "company": "Peripher S.A",
+      "logo": "Python Dev"
     }
   ],
   "skills": [
