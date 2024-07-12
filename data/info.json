@@ -1,5 +1,5 @@
 {
-  "picture": "/assets/imgs/header/profile.png",
+  "picture": "https://placehold.co/600x600",
   "name": "David Peña",
   "username": "@DavidPeAv",
   "years_of_experance": 3,
@@ -8,31 +8,37 @@
   "resume": [
     {
       "id": 1,
-      "duration": "2020 - Present",
+      "duration": "Jan 2023 - Present",
       "company": "Cooweb LLC",
-      "logo": "FullStack Dev"
+      "logo": "Chief Operating Officer"
     },
     {
       "id": 2,
-      "duration": "2017 - 2019",
-      "company": "Cooweb LLC",
-      "logo": "Frontend Dev"
+      "duration": "Jan 2022 - Dec 2022",
+      "company": "Cooweb Colombia",
+      "logo": "FullStack Dev"
     },
     {
       "id": 3,
-      "duration": "2015 - 2017",
+      "duration": "Dec 2020 -  Dec 2021",
+      "company": "Cooweb Colombia",
+      "logo": "Frontend Dev"
+    },
+    {
+      "id": 4,
+      "duration": "Jan 2023 - April 2024",
       "company": "Buho",
       "logo": "React Native Dev"
     },
     {
-      "id": 4,
-      "duration": "2014 - 2015",
+      "id": 5,
+      "duration": "Jan 2021 - Sep 2023",
       "company": "Kontroll",
       "logo": "Frontend Dev"
     },
     {
-      "id": 4,
-      "duration": "2014 - 2015",
+      "id": 6,
+      "duration": "Mar 2019 - Nov 2019",
       "company": "Peripher S.A",
       "logo": "Python Dev"
     }
@@ -40,7 +46,7 @@
   "skills": [
     {
       "id": 1,
-      "title": "Vue",
+      "title": "Vue 3.x",
       "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/vuejs.svg",
       "percent": "95%"
     },
@@ -48,55 +54,49 @@
       "id": 2,
       "title": "React",
       "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/frameworks/react.svg",
-      "percent": "95%"
+      "percent": "60%"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "React Native w Expo",
       "logo": "/assets/imgs/resume/expo.png",
-      "percent": "95%"
-    },
-    {
-      "id": 2,
-      "title": "Typescript",
-      "logo": "https://abrudz.github.io/logos/TypeScript.svg",
-      "percent": "95%"
-    },
-    {
-      "id": 3,
-      "title": "Html/Css",
-      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg",
-      "percent": "90%"
-    },
-    {
-      "id": 3,
-      "title": "Nodejs",
-      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg",
-      "percent": "90%"
+      "percent": "70%"
     },
     {
       "id": 4,
-      "title": "Java",
-      "logo": "https://abrudz.github.io/logos/Java.svg",
-      "percent": "85%"
+      "title": "Typescript",
+      "logo": "https://abrudz.github.io/logos/TypeScript.svg",
+      "percent": "80%"
     },
     {
       "id": 5,
+      "title": "Html/Css",
+      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg",
+      "percent": "100%"
+    },
+    {
+      "id": 6,
+      "title": "Nodejs",
+      "logo": "https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg",
+      "percent": "75%"
+    },
+    {
+      "id": 7,
       "title": "Python",
       "logo": "https://abrudz.github.io/logos/Python.svg",
-      "percent": "78%"
+      "percent": "60%"
     },
     {
-      "id": 5,
-      "title": "Google Cloud Platform",
+      "id": 8,
+      "title": "GCP",
       "logo": "/assets/imgs/resume/gcp.png",
-      "percent": "78%"
+      "percent": "80%"
     },
     {
-      "id": 5,
-      "title": "Firebase Cloud Platform",
+      "id": 9,
+      "title": "Firebase",
       "logo": "/assets/imgs/resume/firebase.png",
-      "percent": "78%"
+      "percent": "80%"
     }
   ]
 }
