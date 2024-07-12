@@ -18,7 +18,11 @@
         </div>
         <div>
           <div class="butn-presv">
-            <a href="#0" class="butn butn-md butn-bord radius-5 skew">
+            <a
+              href="https://docs.google.com/document/d/1f51yzqyQlJd_OIALshKrMklQkSWPR3gE9xowl3cimHo/edit?usp=sharing"
+              target="blank"
+              class="butn butn-md butn-bord radius-5 skew"
+            >
               <span>Download C.V</span>
             </a>
           </div>

@@ -12,7 +12,7 @@
         <div v-for="item in topTwo" class="col-lg-6" :key="item.id">
           <div class="item mt-50">
             <div class="img">
-              <NuxtLink to="/project-details">
+              <NuxtLink to="">
                 <img :src="item.image" alt="" class="radius-5" />
               </NuxtLink>
             </div>
@@ -20,12 +20,12 @@
               <div>
                 <span class="tag">{{ item.tag }}</span>
                 <h6 class="line-height-1">
-                  <NuxtLink to="/project-details">{{ item.title }}</NuxtLink>
+                  <NuxtLink to="">{{ item.title }}</NuxtLink>
                 </h6>
               </div>
               <div class="ml-auto">
                 <div class="arrow">
-                  <NuxtLink to="/project-details">
+                  <NuxtLink to="">
                     <svg
                       class="arrow-right"
                       xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +49,7 @@
         <div class="col-lg-4" v-for="item in rest" :key="item.id">
           <div class="item mt-50">
             <div class="img">
-              <NuxtLink to="/project-details">
+              <NuxtLink to="">
                 <img :src="item.image" alt="" class="radius-5" />
               </NuxtLink>
             </div>
@@ -57,12 +57,12 @@
               <div>
                 <span class="tag">{{ item.tag }}</span>
                 <h6 class="line-height-1">
-                  <NuxtLink to="/project-details">{{ item.title }}</NuxtLink>
+                  <NuxtLink to="">{{ item.title }}</NuxtLink>
                 </h6>
               </div>
               <div class="ml-auto">
                 <div class="arrow">
-                  <NuxtLink to="/project-details">
+                  <NuxtLink to="">
                     <svg
                       class="arrow-right"
                       xmlns="http://www.w3.org/2000/svg"
