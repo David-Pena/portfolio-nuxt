@@ -1,26 +1,21 @@
 <template>
   <CommonLoader />
-  <PreviewNavbar />
+  <HomeLiquid />
+  <HomeNavbar />
   <main>
-    <PreviewMainBox />
+    <HomeMainBox />
+    <HomePortfolio />
+    <HomeBlog />
+    <HomeServices />
   </main>
   <CommonFooter />
 </template>
 
 <script setup>
-//= Page Metadata
-definePageMeta({
-  layout: 'preview'
-});
-//= Page Head
 useHead({
-  titleTemplate: `%s - Preview`
-})
+  titleTemplate: `%s`,
+  bodyAttrs: {
+    class: "liquid",
+  },
+});
 </script>
-
-
-<style>
-body {
-  background: #222
-}
-</style>
