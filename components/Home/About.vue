@@ -9,7 +9,7 @@
       <div class="d-flex align-items-center">
         <div class="mr-40">
           <div class="d-flex align-items-center">
-            <h2>{{ data.years_of_experance }}</h2>
+            <h2>+{{ data.years_of_experance }}</h2>
             <p>
               Years <br />
               of Experience
