@@ -17,7 +17,7 @@
             </div>
           </div>
           <div class="skill-progress">
-            <span class="progres" data-value={{item.percent}}></span>
+            <span class="progres" :data-value="item.percent"></span>
           </div>
           <span class="value">{{ item.percent }}</span>
         </div>
@@ -25,24 +25,25 @@
     </div>
   </div>
 </template>
-  
+
 <script setup>
-import { onMounted } from 'vue';
+import { onMounted } from "vue";
 //= Scripts
-import isInView from '@/common/isInView';
+import isInView from "@/common/isInView";
 //= Static Data
-import data from '@/data/info.json';
+import data from "@/data/info.json";
 
 onMounted(() => {
   isInView({
-    selector: '.progres',
+    selector: ".progres",
     isElements: true,
     callback: (element) => {
+      console.log("Hola", element.dataset);
       element.style.width = element.dataset.value;
     },
     whenOutOfView: (element) => {
       element.style.width = 0;
-    }
+    },
   });
 });
 </script>
