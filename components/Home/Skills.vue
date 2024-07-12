@@ -38,7 +38,6 @@ onMounted(() => {
     selector: ".progres",
     isElements: true,
     callback: (element) => {
-      console.log("Hola", element.dataset);
       element.style.width = element.dataset.value;
     },
     whenOutOfView: (element) => {
