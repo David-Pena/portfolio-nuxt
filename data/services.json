@@ -1,46 +1,22 @@
 [
   {
     "id": 1,
-    "letter": "W",
-    "title": "Web Design",
-    "details": "Modern and mobile-ready website that will help you reach all of your marketing.",
-    "tags": [
-      "UI / UX",
-      "Landing",
-      "Blog"
+    "letter": "J",
+    "title": "JavaScript: Patterns",
+    "details": "LinkedIn",
+    "tags": ["Issued Jan 2023"],
+    "url": [
+      "https://www.linkedin.com/learning/certificates/453f9855e59f82f0fd71e7724c06001d06b5adfbeeb4f1852ae65b09dc5ad016"
     ]
   },
   {
     "id": 2,
-    "letter": "D",
-    "title": "Developments",
-    "details": "Modern and mobile-ready website that will help you reach all of your marketing.",
-    "tags": [
-      "UI / UX",
-      "Landing",
-      "Blog"
-    ]
-  },
-  {
-    "id": 3,
-    "letter": "G",
-    "title": "Graphic Design",
-    "details": "Modern and mobile-ready website that will help you reach all of your marketing.",
-    "tags": [
-      "UI / UX",
-      "Landing",
-      "Blog"
-    ]
-  },
-  {
-    "id": 4,
-    "letter": "A",
-    "title": "Advetising",
-    "details": "Modern and mobile-ready website that will help you reach all of your marketing.",
-    "tags": [
-      "UI / UX",
-      "Landing",
-      "Blog"
+    "letter": "R",
+    "title": "React.js: Building an Interface",
+    "details": "LinkedIn",
+    "tags": ["Issued Jan 2023"],
+    "url": [
+      "https://www.linkedin.com/learning/certificates/562bc05c83caa76dce67aee3c78184c3f2c669ceb25bb784f4db476decc97863"
     ]
   }
 ]

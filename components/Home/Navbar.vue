@@ -18,32 +18,38 @@
       <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#0" data-scroll-nav="1" @click="scrollToSection"
+            <a class="nav-link" href="#about-me" data-scroll-nav="0" @click="scrollToSection"
               ><span class="rolling-text">About</span></a
             >
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#0" data-scroll-nav="3" @click="scrollToSection"
+            <a
+              class="nav-link"
+              href="#my-portfolio"
+              data-scroll-nav="3"
+              @click="scrollToSection"
               ><span class="rolling-text">Portfolio</span></a
             >
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#0" data-scroll-nav="5" @click="scrollToSection"
+            <a class="nav-link" href="#my-blog" data-scroll-nav="5" @click="scrollToSection"
               ><span class="rolling-text">Blog</span></a
+            >
+          </li>
+
+          <li class="nav-item">
+            <a
+              class="nav-link"
+              href="#my-certificates"
+              data-scroll-nav="2"
+              @click="scrollToSection"
+              ><span class="rolling-text">Certificates</span></a
             >
           </li>
         </ul>
       </div>
-
-      <!-- <div class="md-hide">
-        <div class="butn-presv">
-          <a href="#0" class="butn butn-sm butn-bg bg-white radius-5 skew">
-            <span class="text-dark">Hire Me!</span>
-          </a>
-        </div>
-      </div> -->
     </div>
   </nav>
 </template>

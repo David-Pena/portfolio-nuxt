@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-12">
           <div class="sec-head bord-thin-bottom pb-20 mb-80">
-            <h4 class="sub-title fz-28">Services</h4>
+            <h4 class="sub-title fz-28">Certificates</h4>
           </div>
         </div>
       </div>
@@ -15,7 +15,9 @@
             <h6>{{ item.title }}</h6>
             <p>{{ item.details }}</p>
             <div class="tags">
-              <a href="#0" v-for="tag in item.tags" :key="tag">{{ tag }}</a>
+              <a :href="item.url[index]" target="blank" v-for="tag in item.tags" :key="tag">{{
+                tag
+              }}</a>
             </div>
           </div>
         </div>
