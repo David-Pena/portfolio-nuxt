@@ -6,6 +6,7 @@
     <HomeMainBox />
     <HomePortfolio />
     <HomeBlog />
+    <HomeServices />
   </main>
   <CommonFooter />
 </template>
