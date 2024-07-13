@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: "David's Portfolio",
-      htmlAttrs: {
+      Attrs: {
         lang: "en",
       },
       meta: [

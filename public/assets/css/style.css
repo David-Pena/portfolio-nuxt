@@ -4315,7 +4315,7 @@ img.left {
   .navbar .navbar-toggler {
     font-size: 20px;
     border-radius: 0;
-    padding: 0;
+    padding: 10px 15px; /* Adjust padding to ensure proper size */
     margin-right: 30px;
   }
   .navbar .navbar-toggler:focus {

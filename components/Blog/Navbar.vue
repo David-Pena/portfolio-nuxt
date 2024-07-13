@@ -74,7 +74,7 @@ onMounted(() => {
 
   elements.forEach((element) => {
     let innerText = element.innerText;
-    element.innerHTML = "";
+    element.inner = "";
 
     let textContainer = document.createElement("div");
     textContainer.classList.add("block");
