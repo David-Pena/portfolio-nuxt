@@ -1,10 +1,18 @@
 [
   {
     "id": 1,
-    "image": "/assets/imgs/blog/publication-1.jpg",
+    "image": "/assets/imgs/blog/publication-1.png",
     "date": "9, Jul 2022",
     "title": "How to set up your Firebase project to deploy in two different hosting destinations?",
     "comments": "2 min read",
     "url": "https://medium.com/@_davidpena/how-to-configure-your-firebase-project-to-deploy-in-two-different-hosting-destinations-d4cc5d925a96"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/blog/publication-2.png",
+    "date": "16, Jul 2024",
+    "title": "Impacting Colombian youth with tech opportunities",
+    "comments": "4 min read",
+    "url": "https://medium.com/@_davidpena/impacting-colombian-youth-with-tech-opportunities-f799ad6fa54e"
   }
 ]
