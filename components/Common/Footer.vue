@@ -5,9 +5,9 @@
         <div class="col-12">
           <div class="text-center">
             <p class="fz-13">
-              Made by
+              Copyright © {{new Date().getFullYear()}}
               <span class="main-color"
-                ><a :href="data.author_link" target="_blank"> {{ data.theme_author }}</a></span
+                >All rights reserved.</span
               >
             </p>
           </div>
