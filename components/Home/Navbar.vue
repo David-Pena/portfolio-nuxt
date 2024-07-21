@@ -23,7 +23,7 @@
             >
           </li>
 
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a
               class="nav-link"
               href="#my-portfolio"
@@ -31,7 +31,7 @@
               @click="scrollToSection"
               ><span class="rolling-text">Portfolio</span></a
             >
-          </li>
+          </li> -->
 
           <li class="nav-item">
             <a class="nav-link" href="#my-blog" data-scroll-nav="5" @click="scrollToSection"
