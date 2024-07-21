@@ -1,5 +1,5 @@
 {
-  "picture": "https://placehold.co/600x600",
+  "picture": "/assets/imgs/profile-pic-1.jpg",
   "name": "David Peña",
   "username": "@DavidPeAv",
   "years_of_experance": 3,
@@ -10,13 +10,13 @@
       "id": 1,
       "duration": "Jan 2023 - Present",
       "company": "Cooweb LLC",
-      "role": "Chief Operating Officer"
+      "role": "Lead Full-Stack Dev"
     },
     {
       "id": 2,
       "duration": "Jan 2022 - Dec 2022",
       "company": "Cooweb Colombia",
-      "role": "FullStack Dev"
+      "role": "Full-Stack Dev"
     },
     {
       "id": 3,
