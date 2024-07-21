@@ -5,32 +5,41 @@
     </div>
     <div
       v-for="(item, index) in data.resume"
-      :class="`item d-flex align-items-center ${
+      :class="`resume-item-container item d-flex align-items-center gap-5 ${
         index !== data.resume.length - 1 ? 'mb-30' : ''
       }`"
       :key="item.id"
     >
-      <div class="date mr-60">
+      <div class="resume-item-duration date">
         <p class="fz-13">{{ item.duration }}</p>
       </div>
       <div>
         <h6>
-          <a href="#0">{{ item.company }}</a>
+          {{ item.company }}
         </h6>
       </div>
-      <div class="ml-auto">
-        <div class="d-flex align-items-center">
-          <div class="icon-img-40 mr-100">
-            <!-- <img :src="item.logo" alt="" /> -->
-            <p class="fz-13">{{ item.logo }}</p>
-          </div>
-        </div>
+      <div class="role ml-auto">
+        <p class="fz-13">{{ item.role }}</p>
       </div>
     </div>
   </div>
 </template>
 
 <script setup>
-//= Static Data
 import data from "@/data/info.json";
 </script>
+
+<style scoped>
+@media (max-width: 768px) {
+  .resume-item-container {
+    flex-direction: column;
+    gap: 10px !important;
+  }
+  .resume-item-duration {
+    margin-right: 0 !important;
+  }
+  .role {
+    margin: 0;
+  }
+}
+</style>

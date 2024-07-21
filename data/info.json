@@ -10,37 +10,37 @@
       "id": 1,
       "duration": "Jan 2023 - Present",
       "company": "Cooweb LLC",
-      "logo": "Lead Full-Stack Dev"
+      "role": "Chief Operating Officer"
     },
     {
       "id": 2,
       "duration": "Jan 2022 - Dec 2022",
       "company": "Cooweb Colombia",
-      "logo": "Full-Stack Dev"
+      "role": "FullStack Dev"
     },
     {
       "id": 3,
       "duration": "Dec 2020 -  Dec 2021",
       "company": "Cooweb Colombia",
-      "logo": "Frontend Dev"
+      "role": "Frontend Dev"
     },
     {
       "id": 4,
       "duration": "Jan 2023 - April 2024",
       "company": "Buho",
-      "logo": "React Native Dev"
+      "role": "React Native Dev"
     },
     {
       "id": 5,
       "duration": "Jan 2021 - Sep 2023",
       "company": "Kontroll",
-      "logo": "Frontend Dev"
+      "role": "Frontend Dev"
     },
     {
       "id": 6,
       "duration": "Mar 2019 - Nov 2019",
       "company": "Peripher S.A",
-      "logo": "Python Dev"
+      "role": "Python Dev"
     }
   ],
   "skills": [
