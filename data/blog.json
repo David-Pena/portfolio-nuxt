@@ -1,5 +1,13 @@
 [
   {
+    "id": 3,
+    "image": "/assets/imgs/blog/publication-3.png",
+    "date": "11, Aug 2024",
+    "title": "Effortless Refactoring in Vue.js: A Guide to Vue Mess Detector",
+    "comments": "3 min read",
+    "url": "https://medium.com/@_davidpena/effortless-refactoring-in-vue-js-a-guide-to-vue-mess-detector-1d64ea3e40cd"
+  },
+  {
     "id": 2,
     "image": "/assets/imgs/blog/publication-2.png",
     "date": "16, Jul 2024",
