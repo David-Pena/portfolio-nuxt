@@ -1,32 +1,50 @@
 [
   {
     "id": 1,
-    "image": "https://placehold.co/600x400",
-    "title": "Landing - Code Craft Guidelines",
-    "tag": "OSS"
-  },
-  {
-    "id": 1,
-    "image": "https://placehold.co/600x400",
-    "title": "App - Code Craft Guidelines",
-    "tag": "OSS"
+    "image": "/assets/imgs/blog/costeno-fast-food-preview.png",
+    "title": "El Costeno Fast Food LA",
+    "brief": "A landing page for a local Colombian fast food place in Los Angeles. It's one of my favorite places to reconnect with Colombian culture and taste the best food in town.",
+    "techStack": ["Vue.js 3.x", "Vite.js", "TailwindCSS"],
+    "client": "Local fast food restaurant owner",
+    "date": "October 2024",
+    "category": "Landing Page",
+    "website": "https://elcosteno-fast-food-la.netlify.app",
+    "isWip": true
   },
   {
     "id": 2,
-    "image": "https://placehold.co/200x200",
-    "title": "Onboarding Cooweb",
-    "tag": "Web"
+    "image": "/assets/imgs/blog/uniencuentros-preview.png",
+    "title": "Uniencuentros ~ Eventos Universitarios",
+    "brief": "A web platform for university events and gatherings. I created this project to help my professor with his events organization and management, and to provide some value to his mission.",
+    "techStack": ["Vue.js 3.x", "Vite.js", "TailwindCSS"],
+    "client": "Uniencuentros",
+    "date": "October 2024",
+    "category": "Landing Page + Web App",
+    "website": "https://uniencuentros.netlify.app",
+    "isWip": true
   },
   {
     "id": 3,
-    "image": "https://placehold.co/200x200",
-    "title": "Note Taking App",
-    "tag": "Web"
+    "image": "https://placehold.co/600x400",
+    "title": "In Her Words ~ Blog",
+    "brief": "A blog platform for sharing stories and insights.",
+    "techStack": ["Vue.js 3.x", "Vite.js", "TailwindCSS"],
+    "client": "In Her Words",
+    "date": "October 2024",
+    "category": "Blog",
+    "website": "",
+    "isWip": true
   },
   {
     "id": 4,
-    "image": "https://placehold.co/200x200",
-    "title": "Electron Calculator",
-    "tag": "Desktop"
+    "image": "/assets/imgs/blog/ccg-preview.png",
+    "title": "Code Craft Guidelines",
+    "brief": "A landing page for a coding guidelines platform.",
+    "techStack": ["Vue.js", "Nuxt 3", "TailwindCSS"],
+    "client": "Code Craft",
+    "date": "February 2024",
+    "category": "Web App",
+    "website": "https://codecraftguidelines.dev/",
+    "isWip": true
   }
 ]

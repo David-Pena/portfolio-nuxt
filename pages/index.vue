@@ -4,7 +4,7 @@
   <HomeNavbar />
   <main>
     <HomeMainBox />
-    <!-- <HomePortfolio /> -->
+    <HomePortfolio />
     <HomeBlog />
     <HomeServices />
   </main>
