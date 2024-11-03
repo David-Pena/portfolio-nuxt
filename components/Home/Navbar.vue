@@ -1,9 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg static">
     <div class="container">
-      <!-- <a class="logo icon-img-100" href="#">
-        <img src="/assets/imgs/logo-light.png" alt="logo" />
-      </a> -->
       <button
         class="navbar-toggler"
         type="button"
@@ -18,25 +15,32 @@
       <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#about-me" data-scroll-nav="0" @click="scrollToSection"
-              ><span class="rolling-text">About</span></a
-            >
+            <NuxtLink class="nav-link" to="/">
+              <span class="rolling-text">Home</span>
+            </NuxtLink>
           </li>
 
-          <!-- <li class="nav-item">
+          <li class="nav-item">
+            <a class="nav-link" href="#about-me" data-scroll-nav="0" @click="scrollToSection">
+              <span class="rolling-text">About</span>
+            </a>
+          </li>
+
+          <li class="nav-item">
             <a
               class="nav-link"
               href="#my-portfolio"
               data-scroll-nav="3"
               @click="scrollToSection"
-              ><span class="rolling-text">Portfolio</span></a
             >
-          </li> -->
+              <span class="rolling-text">Portfolio</span>
+            </a>
+          </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#my-blog" data-scroll-nav="5" @click="scrollToSection"
-              ><span class="rolling-text">Blog</span></a
-            >
+            <a class="nav-link" href="#my-blog" data-scroll-nav="5" @click="scrollToSection">
+              <span class="rolling-text">Blog</span>
+            </a>
           </li>
 
           <li class="nav-item">
@@ -45,8 +49,9 @@
               href="#my-certificates"
               data-scroll-nav="2"
               @click="scrollToSection"
-              ><span class="rolling-text">Certificates</span></a
             >
+              <span class="rolling-text">Certificates</span>
+            </a>
           </li>
         </ul>
       </div>
@@ -72,6 +77,8 @@ function handleScroll() {
 }
 
 function scrollToSection(event) {
+  if (!event.currentTarget.getAttribute("data-scroll-nav")) return;
+
   event.preventDefault();
   let sectionIndex = event.currentTarget.getAttribute("data-scroll-nav");
   let section = document.querySelector(`[data-scroll-index="${sectionIndex}"]`);
