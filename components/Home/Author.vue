@@ -15,6 +15,9 @@
         <a href="https://www.linkedin.com/in/david-pena-avila/" target="_blank"
           ><i class="fab fa-linkedin-in"></i
         ></a>
+        <a href="https://bsky.app/profile/davidpena.dev" target="_blank">
+          <img src="/assets/bluesky-icon.svg" alt="Bluesky Icon" class="bluesky-icon" />
+        </a>
       </div>
     </div>
   </div>
@@ -24,3 +27,10 @@
 //= Static Data
 import data from "@/data/info.json";
 </script>
+
+<style scoped>
+.bluesky-icon {
+  width: 18px;
+  height: 18px;
+}
+</style>
