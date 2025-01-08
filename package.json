@@ -1,5 +1,6 @@
 {
-  "name": "hawke",
+  "name": "unans-personal-portfolio",
+  "version": "0.4.0",
   "private": true,
   "scripts": {
     "build": "nuxt build",
