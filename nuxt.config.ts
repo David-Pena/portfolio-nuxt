@@ -2,13 +2,17 @@ import { fileURLToPath } from "node:url";
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   ssr: true,
+
   typescript: {
     shim: false,
   },
+
   nitro: {},
+
   alias: {
     "@": fileURLToPath(new URL("./", import.meta.url)),
   },
+
   app: {
     head: {
       title: "David's Portfolio",
@@ -75,7 +79,9 @@ export default defineNuxtConfig({
       ],
     },
   },
+
   css: ["swiper/css/bundle", "@/styles/globals.css"],
+
   webpack: {
     extractCSS: true,
     optimization: {
@@ -84,4 +90,6 @@ export default defineNuxtConfig({
       },
     },
   },
+
+  compatibilityDate: "2025-01-08",
 });
