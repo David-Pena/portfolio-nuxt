@@ -2,7 +2,7 @@
   <div class="author-profile pt-80 pb-80" id="sticky_item" style="position: sticky; top: 25px">
     <div class="cont">
       <div class="img">
-        <img src="/assets/imgs/profile-pic-1.jpg" alt="Profile Picture" />
+        <img :src="data.picture" alt="Profile Picture" />
       </div>
       <div class="info text-center mt-30">
         <h5>{{ data.name }}</h5>

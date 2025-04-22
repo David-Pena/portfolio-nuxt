@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/assets/imgs/blog/costenos-fast-food.png",
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93hq63wML05rXKxUlf9eScPtkLYq3MdQIzwJTi",
     "title": "El Costeno Fast Food LA",
     "brief": "A landing page for a local Colombian fast food place in Los Angeles. It's one of my favorite places to reconnect with Colombian culture and taste the best food in town.",
     "techStack": ["Vue.js", "Vite.js", "TailwindCSS"],
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "image": "/assets/imgs/blog/frla.jpg",
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93qhD1b74KRLT0EQuCxBvbJW8YcUGaI6onDPgO",
     "title": "Firebase Rules Learning Assistant",
     "brief": "An interactive learning tool designed to help developers understand, learn, and experiment with Firebase Security Rules for Cloud Firestore.",
     "techStack": ["Vue.js", "Vite.js", "TailwindCSS", "Bolt"],
@@ -25,7 +25,19 @@
   },
   {
     "id": 3,
-    "image": "/assets/imgs/blog/uniencuentros-preview.png",
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93Lzqxcz1i9HCQBvAMUsDetnYE35mdKbo2PgXJ",
+    "title": "Real Estate Portfolio",
+    "brief": "A personal portfolio for a real estate agent to showcase her properties and services.",
+    "techStack": ["Astro"],
+    "client": "Real Estate Agent",
+    "date": "April 2025",
+    "category": "Portfolio",
+    "website": "https://marianaquinoa.netlify.app/",
+    "isWip": false
+  },
+  {
+    "id": 4,
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93Kt22LTEcUW6NxD0koi8SJPVyClTt2zgYjenX",
     "title": "Uniencuentros",
     "brief": "A web platform for university events and gatherings. I created this project to help my professor with his events organization and management, and to provide some value to his mission.",
     "techStack": ["Vue.js", "Vite.js", "TailwindCSS"],
@@ -36,8 +48,8 @@
     "isWip": true
   },
   {
-    "id": 4,
-    "image": "/assets/imgs/blog/ccg-preview.png",
+    "id": 5,
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93uri77TvYfZni3cmXl2AwF68yt9VGq0QN1Hx7",
     "title": "Code Craft Guidelines",
     "brief": "A landing page for a coding guidelines platform.",
     "techStack": ["Vue.js", "Nuxt 3", "TailwindCSS"],

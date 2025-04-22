@@ -2,14 +2,14 @@
   <div class="about section-padding" data-scroll-index="0">
     <div class="cont">
       <h1>
-        Hello, I’m <span class="main-color">David Peña</span>, Front-end Developer Based in LA.
+        Hello, I’m <span class="main-color">David Peña</span>, Web Developer Based in LA.
       </h1>
     </div>
     <div class="stauts mt-80">
       <div class="d-flex align-items-center">
         <div class="mr-40">
           <div class="d-flex align-items-center">
-            <h2>+{{ data.years_of_experance }}</h2>
+            <h2>+{{ data.years_of_experience }}</h2>
             <p>
               Years <br />
               of Experience

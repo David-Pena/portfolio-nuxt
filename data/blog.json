@@ -1,7 +1,7 @@
 [
   {
     "id": 3,
-    "image": "/assets/imgs/blog/publication-3.png",
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93ClF5YHS5kK3JMDIUfSovpTwrbadyZmnLe7tQ",
     "date": "11, Aug 2024",
     "title": "Effortless Refactoring in Vue.js: A Guide to Vue Mess Detector",
     "comments": "3 min read",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "image": "/assets/imgs/blog/publication-2.png",
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc936dJjeTXdmIiafTyEDUu24tPsK3eSVvN7l9hc",
     "date": "16, Jul 2024",
     "title": "Impacting Colombian Youth with Tech Opportunities",
     "comments": "4 min read",
@@ -17,7 +17,7 @@
   },
   {
     "id": 1,
-    "image": "/assets/imgs/blog/publication-1.png",
+    "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93CYgZC8S5kK3JMDIUfSovpTwrbadyZmnLe7tQ",
     "date": "9, Jul 2022",
     "title": "How to set up your Firebase project to deploy in two different hosting destinations?",
     "comments": "2 min read",
