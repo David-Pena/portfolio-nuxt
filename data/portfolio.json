@@ -25,6 +25,18 @@
   },
   {
     "id": 3,
+    "image": "https://uot1ssxo8p.ufs.sh/f/Io8Eim0jfqi714HebjvA4BIkZlMXEqwnaW2dDRJuCVS3TNUm",
+    "title": "Aleja Clark Music Portfolio",
+    "brief": "A personal portfolio for a musician to showcase her music and services. Including a custom Spotify player within the website.",
+    "techStack": ["Astro", "TailwindCSS", "EmailJS", "Spotify Web and Playback SDK"],
+    "client": "Aleja Clark",
+    "date": "May 2025",
+    "category": "Portfolio",
+    "website": "https://alejaclark.netlify.app/",
+    "isWip": false
+  },
+  {
+    "id": 4,
     "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93Lzqxcz1i9HCQBvAMUsDetnYE35mdKbo2PgXJ",
     "title": "Real Estate Portfolio",
     "brief": "A personal portfolio for a real estate agent to showcase her properties and services.",
@@ -36,7 +48,7 @@
     "isWip": false
   },
   {
-    "id": 4,
+    "id": 5,
     "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93Kt22LTEcUW6NxD0koi8SJPVyClTt2zgYjenX",
     "title": "Uniencuentros",
     "brief": "A web platform for university events and gatherings. I created this project to help my professor with his events organization and management, and to provide some value to his mission.",
@@ -48,7 +60,7 @@
     "isWip": true
   },
   {
-    "id": 5,
+    "id": 6,
     "image": "https://4fp05r3f2q.ufs.sh/f/oiag2I6Jmc93uri77TvYfZni3cmXl2AwF68yt9VGq0QN1Hx7",
     "title": "Code Craft Guidelines",
     "brief": "A landing page for a coding guidelines platform.",
