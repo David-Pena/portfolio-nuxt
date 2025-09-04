@@ -8,36 +8,42 @@
   "resume": [
     {
       "id": 1,
-      "duration": "Jan 2023 - Present",
+      "duration": "Jun 2025 - Present",
+      "company": "Insite AI",
+      "role": "Full Stack Engineer"
+    },
+    {
+      "id": 2,
+      "duration": "Jan 2023 - May 2025",
       "company": "Cooweb LLC",
       "role": "Lead Full-Stack Dev"
     },
     {
-      "id": 2,
+      "id": 3,
       "duration": "Jan 2022 - Dec 2022",
       "company": "Cooweb Colombia",
       "role": "Full-Stack Dev"
     },
     {
-      "id": 3,
+      "id": 4,
       "duration": "Dec 2020 -  Dec 2021",
       "company": "Cooweb Colombia",
       "role": "Frontend Dev"
     },
     {
-      "id": 4,
+      "id": 5,
       "duration": "Jan 2023 - April 2024",
       "company": "Buho",
       "role": "React Native Dev"
     },
     {
-      "id": 5,
+      "id": 6,
       "duration": "Jan 2021 - Sep 2023",
       "company": "Kontroll",
       "role": "Frontend Dev"
     },
     {
-      "id": 6,
+      "id": 7,
       "duration": "Mar 2019 - Nov 2019",
       "company": "Peripher S.A",
       "role": "Python Dev"
